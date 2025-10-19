@@ -1,0 +1,2 @@
+Ok, that's file number 1.
+And now it has only two lines (except the last empty line).
