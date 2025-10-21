@@ -1,5 +1,3 @@
-Ok, that's file number 1.
-It has only three lines,
-because I've decided to add the third one.
-And now I'm making some changes.
-I mean I added some new lines to the end of the file.
+The whole file is refactored to solve some merging conflicts.
+There where 5 lines, now it stores only 3,
+and they are very different from the previous ones.
