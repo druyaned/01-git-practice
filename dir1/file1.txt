@@ -1,3 +1,5 @@
 Ok, that's file number 1.
 It has only three lines,
 because I've decided to add the third one.
+And now I'm making some changes.
+I mean I added some new lines to the end of the file.
