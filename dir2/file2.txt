@@ -1,3 +1,3 @@
-That's the file 2.
+That's the text file 2.
 Yeah, I wanna be a Rock Star!
-Previous line wasn't true.
+The previous line was not entirely true.
