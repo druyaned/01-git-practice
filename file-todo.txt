@@ -1,3 +1,2 @@
-So, that's the file of some TODOs.
-TODO#01: practice with git-stash
-TODO#02: practice with git-stash-apply
+There are some new TODOs.
+TODO#01: understand and practice with pull requests on GitHub
