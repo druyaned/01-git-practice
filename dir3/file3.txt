@@ -1,2 +1,2 @@
-This file has the number 3.
+This is the file 3.
 I'm wondering, how many more files will I create?
