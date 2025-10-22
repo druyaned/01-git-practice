@@ -1,0 +1,3 @@
+So, that's the file of some TODOs.
+TODO#01: practice with git-stash
+TODO#02: practice with git-stash-apply
